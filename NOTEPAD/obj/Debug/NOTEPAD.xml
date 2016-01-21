@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NOTEPAD
+</name>
+</assembly>
+<members>
+<member name="P:NOTEPAD.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_about_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_arrow_down_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_arrow_right_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_bullet_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_bullet_032x0321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_cancel_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_favorites_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_file_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_file_032x0321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_print_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_reload_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_remove_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_remove_032x0321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_rss_feed_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:NOTEPAD.My.Resources.Resources.icontexto_webdev_site_map_032x032">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:NOTEPAD.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
